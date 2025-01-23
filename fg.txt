@@ -1,0 +1,11 @@
+1. Uninstall fivem with revo, delete all the traced files aswell
+2. unlink fivem from discord
+3. Use Mac Changer
+4. reinstall fivem - dont log in
+5. spoof identifiers
+6. log into your accounts for steam, discord, fivem
+7. Link new fivem with your new discord (should auto come up on discord)
+8. turn on vpn
+9. Go into regedit delete the following file
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStore
+You need to do this each time u restart pc
